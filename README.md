@@ -59,11 +59,6 @@ A shader that displays the polys of models. Shader edited.
 
 Video: https://streamable.com/2kfjr
 
-World geometry shader - **
-A shader that can texture the world with a bit of setup, scrollable. Shader edited
-
-Video:https://streamable.com/7cnq1
-
 World based dissolve (zelda dissolve)
 A version of the disentigrate shader that uses world based motion instead of mesh warping
 
