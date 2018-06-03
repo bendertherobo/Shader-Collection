@@ -6,7 +6,7 @@ Notes-
 
 AfterImage shader - Grabpass
 A simple shader that quadruples everything you see, contains a slider to increse the strength.
-Video:
+Video:<div style="width:100%;height:0px;position:relative;padding-bottom:43.438%;"><iframe src="https://streamable.com/s/08pc5/lfjuou" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ArrowTravel Shader (icludes transparent version)
 A shader that causes mesh particles to allign to velocity when rendered in world space simulation.
