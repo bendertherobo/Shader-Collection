@@ -59,39 +59,73 @@ Video:
 Flat-lit mesh warp (bender's all-in-one shader)
 A shader that supports:
 Main texture that is
+ 
  -Scrollable
+ 
  -rotatable
+ 
  -pixalate
+ 
  -Cellshadable
+ 
  -Scrolling noise texture UV warpable
+ 
  -Scaleable
+
 Normal Emission mapping
+
 Custom Waveform Emission with
+ 
  -Waveform amount control
+ 
  -Waveform type control (vert/horizon)
+ 
  -Emission strength
+ 
  -Two colors
+ 
  -Moving emission
+ 
  -Warping the mesh based on these waveforms
+
 Mesh warping based on a scrollable Noise texture
+
 Heightmapping supporting
- -Scrolling
- -Pulsing based on a min and max
- -Rotation
+
+-Scrolling
+
+-Pulsing based on a min and max
+
+-Rotation
+
 Animated Tessalation
+
 Fur tessalation (just intensifies the tessalation)
+
 Outline supporting
- -Scrolling
- -Color
- -Texture outlines
- -Noise warping of the outline
+
+-Scrolling
+
+-Color
+
+-Texture outlines
+
+-Noise warping of the outline
+
 Overlays supporting
- -Transparency
- -scrolling
- -scrollable UV noise warping
- -pixellation
- -World space overlay
- -Screenspace overlay
+
+-Transparency
+
+-scrolling
+
+-scrollable UV noise warping
+
+-pixellation
+
+-World space overlay
+
+-Screenspace overlay
+
 Edge glow with adjustable size, hardness, and color.
 
 Videos:
