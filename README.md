@@ -6,55 +6,68 @@ Notes-
 
 AfterImage shader - Grabpass
 A simple shader that quadruples everything you see, contains a slider to increse the strength.
-Video:<div style="width:100%;height:0px;position:relative;padding-bottom:43.438%;"><iframe src="https://streamable.com/s/08pc5/lfjuou" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+Video:https://streamable.com/08pc5
 
 ArrowTravel Shader (icludes transparent version)
 A shader that causes mesh particles to allign to velocity when rendered in world space simulation.
-Video:
+
+Video:https://streamable.com/cys5p
 
 Blur and pixel shader - Grabpass
 A shader that blurs or pixelates everything in the area, can adjust the strength of both effects,
-Video:
+
+Video:https://streamable.com/yjbn6
 
 Cloth Particle Dissolve
 A shader that emulates dissolving into particles, can adjust dissolve strength, noise texture of the dissolve,and the edge color for the dissolve, best when used with black and white flow textures.
-Video:
+
+Video:https://streamable.com/9z6h8
 
 Configurable UI - Grabpass
 a UI set up shader with 9 texture slots that can all be completely adjusted placement wise, textures for this should be 1920 x 1080 black backgrounds with white ui elements in the rough places you want them on screen, any texture slots you dont need keep filled with a full black texture. Certain texture slots support fading and increasing or decreasing opacity.
-Video:
+
+Video:https://streamable.com/8v88b
 
 Disentigrate shader
 A shader that disentigrates a mesh over a noise texture with noise warping, slider adjusts the dissolve amount.
-Video:
+
+Video:https://streamable.com/e8g17
 
 Displacement Shader - Grabpass
 The classic glitch shader with some adjustments, can seperate rgb channels and shake them over different noise profiles, needs to be tinkered with to produce a good effect.
-Video:
+
+Video:https://streamable.com/vzipn
 
 Grabpass- Grabpass
 A grabpass shader that can apply noise textures over the screen, can also desaturate and greyscale.
-Video:
+
+Video:https://streamable.com/pdc6k / https://streamable.com/xunuh
 
 Screenfade - Grabpass
-A simple shader that fades out the screen
-Video: 
+A simple shader that fades out the screen. Shader Edited
+
+Video:https://streamable.com/c1oss 
 
 Texture Swap
 A shader that can dissolve between two scrollable textures based on a noise profile, also supports outlines, good for transformation effects.
-Video: 
+
+Video: https://streamable.com/sbrru
 
 Wireframe - **
-A shader that displays the polys of models.
-Video: 
+A shader that displays the polys of models. Shader edited.
+
+Video: https://streamable.com/2kfjr
 
 World geometry shader - **
-A shader that can texture the world with a bit of setup, scrollable
-Video:
+A shader that can texture the world with a bit of setup, scrollable. Shader edited
+
+Video:https://streamable.com/7cnq1
 
 World based dissolve (zelda dissolve)
 A version of the disentigrate shader that uses world based motion instead of mesh warping
-Video:
+
+Video:https://streamable.com/f0vx2
 
 Flat-lit mesh warp (bender's all-in-one shader)
 A shader that supports:
@@ -128,4 +141,18 @@ Overlays supporting
 
 Edge glow with adjustable size, hardness, and color.
 
-Videos:
+Videos:https://streamable.com/zzwqp
+
+https://streamable.com/ygf7i
+
+https://streamable.com/rj8zt
+
+https://streamable.com/as48m
+
+https://streamable.com/98qvg
+
+https://streamable.com/4rr94
+
+https://streamable.com/zv0il
+
+https://streamable.com/uplic
