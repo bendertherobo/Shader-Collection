@@ -34,11 +34,6 @@ A shader that disentigrates a mesh over a noise texture with noise warping, slid
 
 Video:https://streamable.com/e8g17
 
-Displacement Shader - Grabpass
-The classic glitch shader with some adjustments, can seperate rgb channels and shake them over different noise profiles, needs to be tinkered with to produce a good effect.
-
-Video:https://streamable.com/vzipn
-
 Grabpass- Grabpass
 A grabpass shader that can apply noise textures over the screen, can also desaturate and greyscale.
 
