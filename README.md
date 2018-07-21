@@ -151,27 +151,44 @@ https://streamable.com/uplic
 NEW AS OF V2
 
 Custom Animated Outline
+
 A standard flatlit shader with a highly customizable outline.
+
 Video: https://streamable.com/fqegn
 
+
 CubeMap Skybox
+
 Just a shader that fixes the inverted skybox when using a cubemap
+
 Video: https://streamable.com/k6czm
 
+
 Black Hole
+
 A customizable black hole shader that fits most mesh types.
+
 Video: https://streamable.com/d0478
+
 
 Fur Shader
 Uses Tesselation and rotation to create a fur look
+
 Video: https://streamable.com/zuc1e
 
+
 BlackandWhite+inversion
+
 Grabpass a few screenspace effects in one shader
+
 Video: https://streamable.com/cbklk
 
+
 Holo Shield
+
 Video: https://streamable.com/hlz59
 
+
 Glitch Shader
+
 Video: https://streamable.com/rylv4
