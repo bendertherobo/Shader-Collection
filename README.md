@@ -193,3 +193,51 @@ Video: https://streamable.com/hlz59
 Glitch Shader
 
 Video: https://streamable.com/rylv4
+
+
+NEW AS OF V3 -Geometry Shaders!-
+
+Aura Dissolve - Geometry
+--https://streamable.com/qocbp
+
+Clone - Geometry
+--https://streamable.com/gp5tm
+
+Fog **
+--https://streamable.com/s5v8e
+
+Fractal Expand - Geometry
+--https://streamable.com/eh6k8
+
+Geometry Burn - Geometry
+--https://streamable.com/m05lx
+
+Invis Fade
+--https://streamable.com/pn30w
+
+Materialize
+--https://streamable.com/3xges
+
+Mesh Assembly - Geometry
+--https://streamable.com/99npv
+
+Night Vision - With and Without Camera Versions
+--https://streamable.com/82g69
+
+Normal Reflective - good for toon metal
+--https://streamable.com/5kmdo
+
+Point Dissolve/Vertex Cloud - Geometry
+--https://streamable.com/kbmkn
+
+ScreenWarp/Shake - Grabpass
+--https://streamable.com/dyw5f
+
+Water Sim
+--https://streamable.com/z3u2i
+
+Water
+--https://streamable.com/0cbn0
+
+Wire Outline - Geometry
+--https://streamable.com/yx74t
