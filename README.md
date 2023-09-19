@@ -1,5 +1,5 @@
 # Shader-Collection
-https://www.dropbox.com/s/lmttb97m38rji3w/Bender%27s%20Shader%20Collection%20v3%20-%20Final.unitypackage?dl=0
+(File now uploaded directly to GitHub, download Benders_Shader_Collection_V3 at top of page) https://github.com/bendertherobo/Shader-Collection/blob/master/Benders_Shader_Collection_v3_-_Final.unitypackage
 Collection of shaders i've made with documentation to explain some of the effects with videos.
 Notes-
 1) A grabpass shader is a shader that renders a texture or effect over a players camera while in the object the shader is on, these shaders DO NOT go on your model, but on an shape, usually a sphere around your model.
